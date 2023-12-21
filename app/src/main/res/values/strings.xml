@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Assignmen_2_Android</string>
     <string name="go_to_home">Go TO Haome</string>
+    <string name="image_of_splash_screen">Image of Splash Screen</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="first_app_android">First App Android</string>
 </resources>
